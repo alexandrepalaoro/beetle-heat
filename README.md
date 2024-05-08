@@ -1,4 +1,4 @@
-# Regional heterothermy is not associated with active heat dissipation by the horns in the Rhinoceros Beetle (Megasoma gyas)
+# Regional heterothermy is not associated with active heat dissipation by the horns in the Rhinoceros Beetle (<i>Megasoma gyas</i>)
 
 Authors: Danilo Giacometti, Luiz Henrique Lima Silva, Guilherme Gomes, José Eduardo de Carvalho, Alexandre V. Palaoro <br>
 Contact about code, and analyses: d.giacometti96@gmail.com or alexandre.palaoro@gmail.com
