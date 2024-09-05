@@ -13,20 +13,19 @@ We uploaded three different folders: "code", "data", and "figures". Each folder 
 
 ##### Code:
 
-The folder "code" contains an RMarkdown html file which contains all code used in this paper and an additional .R file where all raw code is given. Thus, you can reproduce all analyses and figures we generated for this paper.
+The folder "code" contains an RMarkown htlm file which contains all code used in this paper. Thus, you can reproduce all analyses and figures we generated for this paper.
 
 ##### Data:
 
 The folder "data" contains the data we used in our analyses.
 The data set contains the values of each individual of Megasoma gyas we used in the study. All variables are contained in the same file. These data were used to run all analyses contained in the manuscript.
 
-METADATA OF cool-heat.csv
 In the columns we have the variables, in rows we have the individuals. <br>
-COLUMN A: ID – the number we gave the individual Rhinoceros beetle <br>
-COLUMN B: exp – type of experiment; either passive heating or control <br>
-COLUMN C: body.part – body region under study (cephalic horn, thoracic horn, elytra, abdomen). Cephal.horn = cephalic horn, thorax.horn = thoracic horn <br>
-COLUMN D: cool.rate – cooling rate; slope of the linear relationship between temperature and time. Please, see the paper for the description of how this was done <br>
-COLUMN E: mass – body mass of each individual. Unit: g <br>
+COLUMN A: ID – the number we gave the individual Rhinoceros beetle. <br>
+COLUMN B: exp – type of experiment; either passive heating or control. <br>
+COLUMN C: body.part – body region under study (cephalic horn, thoracic horn, scutellum, abdomen). Cephal.horn = cephalic horn, thorax.horn = thoracic horn. <br>
+COLUMN D: cool.rate – cooling rate; slope of the linear relationship between temperature and time. Please, see the paper for the description of how this was done. <br>
+COLUMN E: mass – body mass of each individual. Unit: g. <br>
 COLUMN F: mass.cat – body mass category. High = relatively heavy, low = relatively light. <br>
 COLUMN G: horn.ratio – proportional horn size; horn length divided by body length. Please, see the paper for the description of how this was done. <br>
 
