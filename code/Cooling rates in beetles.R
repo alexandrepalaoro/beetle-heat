@@ -114,7 +114,7 @@ Fig1<-ggplot(beetle.passive, aes(x = mass, y = invert, colour=body.part, group=b
   
   geom_point(shape = 21, colour = "black", size = 3, alpha = .9) +
   
-  scale_fill_manual(name = "", labels = c("Abdomen","Cephalic horn", "Thoracic horn","Elytra"),
+  scale_fill_manual(name = "", labels = c("Abdomen","Cephalic horn", "Thoracic horn","Scutellum"),
                     values=c("#EBC397", "#A6E7FF","#2C809E", "#9E5F1C"))+
   
   ylab("Cooling rate\n(slope)") +
@@ -177,7 +177,7 @@ Fig2<-ggplot(beetle.passive.subset, aes(x = mass, y = invert, colour=body.part, 
   
   geom_point(shape = 21, colour = "black", size = 3, alpha = .9) +
   
-  scale_fill_manual(name = "", labels = c("Abdomen","Cephalic horn", "Thoracic horn","Elytra"),
+  scale_fill_manual(name = "", labels = c("Abdomen","Cephalic horn", "Thoracic horn","Scutellum"),
                     values=c("#EBC397", "#A6E7FF","#2C809E", "#9E5F1C"))+
   
   ylab("Cooling rate\n(slope)") +
