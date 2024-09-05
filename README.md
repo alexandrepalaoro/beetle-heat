@@ -18,7 +18,7 @@ The folder "code" contains an RMarkown htlm file which contains all code used in
 ##### Data:
 
 The folder "data" contains the data we used in our analyses.
-The data set contains the values of each individual of Megasoma gyas we used in the study. All variables are contained in the same file. These data were used to run all analyses contained in the manuscript.
+The data set contains the values of each individual of <i>Megasoma gyas</i> we used in the study. All variables are contained in the same file. These data were used to run all analyses contained in the manuscript.
 
 In the columns we have the variables, in rows we have the individuals. <br>
 COLUMN A: ID – the number we gave the individual Rhinoceros beetle. <br>
