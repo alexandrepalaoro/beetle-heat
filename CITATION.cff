@@ -1,0 +1,61 @@
+cff-version: 1.2.0
+message: "If you use these data or this code, please cite both the article (preferred-citation) and this repository."
+type: software
+title: "Data and code for: Regional heterothermy in Megasoma gyas is not related to active heat dissipation by the horns"
+abstract: "Data and R code for the thermal-imaging study testing whether the horns of the rhinoceros beetle Megasoma gyas act as heat-dissipation structures. Contains per-individual cooling rates for four body regions under passive heating and control treatments, together with body mass and proportional horn size, and the RMarkdown analysis that reproduces every model and figure."
+authors:
+  - family-names: Giacometti
+    given-names: Danilo
+    orcid: "https://orcid.org/0000-0002-3882-000X"
+  - family-names: Silva
+    given-names: Luiz Henrique Lima
+  - family-names: Gomes
+    given-names: Guilherme
+  - family-names: de Carvalho
+    given-names: José Eduardo
+  - family-names: Palaoro
+    given-names: Alexandre V.
+    orcid: "https://orcid.org/0000-0002-8629-0728"
+    affiliation: "Universidade Federal do Paraná, Curitiba, Brazil"
+repository-code: "https://github.com/alexandrepalaoro/beetle-heat"
+url: "https://github.com/alexandrepalaoro/beetle-heat"
+license:
+  - MIT
+  - CC0-1.0
+keywords:
+  - "regional heterothermy"
+  - "thermal biology"
+  - "heat dissipation"
+  - "rhinoceros beetle"
+  - "Megasoma gyas"
+  - "sexually selected weapons"
+  - "cooling rate"
+  - "thermography"
+  - "Scarabaeidae"
+# Uncomment and fill in once this repository has been archived on Zenodo.
+# Use the CONCEPT DOI (the one that always resolves to the newest version).
+# doi: "10.5281/zenodo.XXXXXXX"
+preferred-citation:
+  type: article
+  authors:
+    - family-names: Giacometti
+      given-names: Danilo
+      orcid: "https://orcid.org/0000-0002-3882-000X"
+    - family-names: Silva
+      given-names: Luiz Henrique Lima
+    - family-names: Gomes
+      given-names: Guilherme
+    - family-names: de Carvalho
+      given-names: José Eduardo
+    - family-names: Palaoro
+      given-names: Alexandre V.
+      orcid: "https://orcid.org/0000-0002-8629-0728"
+      affiliation: "Universidade Federal do Paraná, Curitiba, Brazil"
+  title: "Regional heterothermy in Megasoma gyas is not related to active heat dissipation by the horns"
+  journal: "Insect Science"
+  year: 2026
+  volume: 33
+  issue: 3
+  start: 1206
+  end: 1210
+  doi: "10.1111/1744-7917.70018"
